@@ -1,3 +1,4 @@
+Exercise was done to get familiarity with Java
 Given a string A.
 
 Return the string A after reversing the string word by word.
